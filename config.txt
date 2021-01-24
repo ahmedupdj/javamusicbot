@@ -1,5 +1,5 @@
-token=
+token=ODAwMjk1MDkxODQ2NTEyNjcw.YAQC4g.Lit52OSje9DkQ8pWuZMTM_q4dX8
 owner=569841293837074432
-prefix=..
+prefix=$
 stayinchannel=true
 songinstatus=true
